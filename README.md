@@ -1,6 +1,6 @@
 # Power BI Projects
 
 
-![Alt text](Ecommerce BI Visualization/dashboardimage.png)
+![Alt text](Ecommerce_BI_Visualization/dashboardimage.png)
 
 
